@@ -4,7 +4,7 @@ public class Helloword {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Word! test ÖÐÎÄ²âÊÔ");
+		System.out.println("Hello Word! test ä¸­æ–‡æµ‹è¯•");
 	}
 
 }
